@@ -4976,7 +4976,7 @@ optimist@^0.6.1:
     wordwrap "~0.0.2"
 
 optional@^0.1.0:
-  version v0.1.3
+  version "0.1.3"
   resolved "http://registry.npm.taobao.org/optional/download/optional-0.1.3.tgz#f87537517b59a5e732cfd8f18e4f7eea7ab4761e"
 
 optionator@^0.6.0:
@@ -6017,6 +6017,10 @@ sax@~1.2.1:
   version "1.2.2"
   resolved "http://registry.npm.taobao.org/sax/download/sax-1.2.2.tgz#fd8631a23bc7826bef5d871bdb87378c95647828"
 
+scrollreveal@^3.3.6:
+  version "3.3.6"
+  resolved "http://registry.npm.taobao.org/scrollreveal/download/scrollreveal-3.3.6.tgz#659b7bf0ba0e244dced978ac5540c00b43773e4a"
+
 seek-bzip@^1.0.3:
   version "1.0.5"
   resolved "http://registry.npm.taobao.org/seek-bzip/download/seek-bzip-1.0.5.tgz#cfe917cb3d274bcffac792758af53173eb1fabdc"
@@ -6057,6 +6061,7 @@ semantic-ui@^2.2.10:
     gulp-watch "^4.3.11"
     jquery "^3.1.1"
     map-stream "^0.1.0"
+    merge-stream "^1.0.0"
     mkdirp "^0.5.1"
     require-dot-file "^0.4.0"
     run-sequence "^1.2.2"
