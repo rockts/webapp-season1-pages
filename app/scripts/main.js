@@ -3,6 +3,17 @@
   // Your custom JavaScript goes here
 
   /**
+   * scrollReveal
+   */
+
+   window.sr = ScrollReveal({ reset: true })
+   sr.reveal('.ui.block.story .content')
+   sr.reveal('.ui.spec .statistic', 100)
+   sr.reveal('.ui.spec .details .content', 100)
+   sr.reveal('.ui.action .header')
+   sr.reveal('.ui.action .action')
+
+  /**
    * navbar
    */
   $('.ui.navbar .search-icon > i')
